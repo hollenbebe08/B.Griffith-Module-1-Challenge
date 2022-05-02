@@ -7,11 +7,11 @@
 
 
 ✅ Main goals will be achieved when the webpage meets accessibility standards. The criteria for having an accessible website are: </br>
-    1. When I view the source code - then I find semantic HTML elements </br>
-    2. When I view the structure of the HTML elements - then I find that the elements follow a logical structure independent of styling and positioning </br>
-    3. When I view the image elements - then I find accessible alt attributes </br>
-    4. When I view the heading attributes - then they fall in sequential order </br>
-    5. When I view the title element - then I find concise, descriptive title </br>
+&ensp When I view the source code - then I find semantic HTML elements </br>
+&ensp When I view the structure of the HTML elements - then I find that the elements follow a logical structure independent of styling and positioning </br>
+&ensp When I view the image elements - then I find accessible alt attributes </br>
+&ensp When I view the heading attributes - then they fall in sequential order </br>
+&ensp When I view the title element - then I find concise, descriptive title </br>
 
 
 ## List of changes made to fulfill project Criterias:
