@@ -52,8 +52,10 @@
 **Changes made to Header Section:**
 
 **Changes made to Hero Section:**
+* Created its own section in the HTML file and made the hero class in the CSS file its own.
 
-* All of the styling for the search engine optimization, online reputation management, and social media marketing articles was moved up in the CSS file to be under the hero section styling.
+**Changes made to SEO, Rep, Social Media section**
+* All of the styling for the search engine optimization, online reputation management, and social media marketing articles was moved up in the CSS file to be under its own section.
 
 **Changes made to Benefits Section:**
 
