@@ -17,12 +17,13 @@
 ## List of changes made to fulfill project Criterias:
 
 **Changes made to fulfill criteria: When I veiw the source code - then I find semantic elements** </br>
-* Adjusted the head and body to be tabbed in from HTML and removed unnecessary line spaces in the code
-![alt text](./screenshots/screenshot-one.png) Reformatting of html head and body structure.
-* Changed the div tag for the header to be a section tag and its respective closing tag.
+* Adjusted the head and body to be tabbed in from HTML and removed unnecessary line spaces.
+![alt text](./screenshots/screenshot-one.png)
+* Changed the div tag for the header to be a header tag as well as its respective closing tag.
 * Changed the div tag for the hero to be a section tag and moved the closing tag for the section to it's appropriate spot at the bottom of the code block.
 * Changed the tags for the "search engine optimization", "online reputation management", and "social media marketing" content blocks to article tags and added respective closing tags.
 ![alt text](./screenshots/screenshot-two.png)
+* Changed the div tag for the footer to be a footer tag as well as its respective closing tag.
 
 **Changes made to fulfill criteria: When I view the structure of the HTML elements - then I find that the elements follow a logical structure independent of styling and positioning**
 
