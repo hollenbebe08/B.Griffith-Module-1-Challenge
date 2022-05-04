@@ -57,12 +57,13 @@
 **Changes made to the Footer Section:**
 * Moved the footers css styling to be under the header styling
 
+</br>
+
 ## 📷 Screenshots of final HTML Code for reference:
 ![Alt text]( ./screenshots/screenshot-one.png)
 ![Alt text]( ./screenshots/screenshot-two.png)
 ![Alt text]( ./screenshots/screenshot-three.png)
 
-</br>
 </br>
 
 ## 📷 Screenshots of final CSS code for reference:
