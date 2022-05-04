@@ -19,6 +19,7 @@
 
 * Adjusted the head and body to be tabbed in from HTML and removed unnecessary line spaces.
 * Changed the div tag for the header to be a header tag as well as its respective closing tag.
+* Changed the div encompassing the Ul to be a nav tag.
 * Changed the div tag for the hero to be a section tag and moved the closing tag for the section to it's appropriate spot at the bottom of the code block. Split the hero section from the SEO, Reputation, and Social Media Section.
 * Changed the tags for the "search engine optimization", "online reputation management", and "social media marketing" content blocks to article tags and added respective closing tags. Also enclosed the article tags within open and ending section tags.
 ![alt text](./screenshots/screenshot-two.png)
