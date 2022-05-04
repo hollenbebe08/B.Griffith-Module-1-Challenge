@@ -27,20 +27,12 @@
 * Changed the div tag for the benefit to be a section tag as well as its respective closing tag. I left the tags inside of the benefit section as divs since their content isn't independent content.
 * Changed the div tag for the footer to be a footer tag as well as its respective closing tag.
 
-</br>
-</br>
-
 **Changes made to fulfill criteria: When I view the image elements - then I find accessible alt attributes** </br>
 * Added alt attributes to the "search engine optimization", "online reputation management", and "social media marketing" images.
 * Added alt attributes to the benefit lead, cost, and brand images.
 
-</br>
-</br>
-
 **Changes made to fulfill criteria: When I view the heading attributes - then they fall in sequential order** </br>
 * No changes made but did confirm that the headers were in sequential order.
-</br>
-</br>
 
 **Changes made to fulfill criteria: When I view the title element - then I find concise, descriptive title** </br>
 * Changed the title in the head to be Homepage-Horiseon following semantic html to indicate where the user is located on the website.
