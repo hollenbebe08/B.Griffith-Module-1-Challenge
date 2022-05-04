@@ -22,8 +22,8 @@
 * Changed the div encompassing the Ul to be a nav tag.
 * Changed the div tag for the hero to be a section tag and moved the closing tag for the section to it's appropriate spot at the bottom of the code block. Split the hero section from the SEO, Reputation, and Social Media Section.
 * Changed the tags for the "search engine optimization", "online reputation management", and "social media marketing" content blocks to article tags and added respective closing tags. Also enclosed the article tags within open and ending section tags.
-![alt text](./screenshots/screenshot-two.png)
-* assigned the class "content" to the section encompassing the SEO, rep, and Social media articles.
+* Assigned the class "content" to the section encompassing the SEO, rep, and Social media articles
+* Removed the div tags in the SEO, rep, and social media section and put the id and class selectors on the article tag line instead.
 * Changed the div tag for the benefit to be a section tag as well as its respective closing tag. I left the tags inside of the benefit section as divs since their content isn't independent content.
 * Changed the div tag for the footer to be a footer tag as well as its respective closing tag.
 
@@ -32,8 +32,7 @@
 
 **Changes made to fulfill criteria: When I view the image elements - then I find accessible alt attributes** </br>
 * Added alt attributes to the "search engine optimization", "online reputation management", and "social media marketing" images.
-* Added open alt attributes to the benefit section images. I did not give them any sort of description since the images are icons and not vital to understanding the page.
-![alt text](./screenshots/screenshot-three.png)
+* Added alt attributes to the benefit lead, cost, and brand images.
 
 </br>
 </br>
@@ -44,7 +43,7 @@
 </br>
 
 **Changes made to fulfill criteria: When I view the title element - then I find concise, descriptive title** </br>
-* Changed the title in the head to be Horiseon Homepage following semantic html to indicate where the user is located on the website.
+* Changed the title in the head to be Homepage-Horiseon following semantic html to indicate where the user is located on the website.
 
 </br>
 
@@ -61,9 +60,21 @@
 * Combined the styling for the SEO, rep, and social media section articles into one class to use across all three articles. Also combined the classes for their h2 headers as well as their images.
 
 **Changes made to Benefits Section:**
- Combined the styling for the benefit cost, lead, and brand section divs into one class to use across all three divs. Also combined the classes for their h3 headers as well as their images.
+ * Combined the styling for the benefit cost, lead, and brand section divs into one class to use across all three divs. Also combined the classes for their h3 headers as well as their images.
 
 **Changes made to the Footer Section:**
 * Moved the footers css styling to be under the header styling
 
+## 📷 Screenshots of final HTML Code for reference:
+![Alt text]( ./screenshots/screenshot-one.png)
+![Alt text]( ./screenshots/screenshot-two.png)
+![Alt text]( ./screenshots/screenshot-three.png)
 
+</br>
+</br>
+
+## 📷 Screenshots of final CSS code for reference:
+![Alt text]( ./screenshots/screenshot-four.png)
+![Alt text]( ./screenshots/screenshot-five.png)
+![Alt text]( ./screenshots/screenshot-six.png)
+![Alt text]( ./screenshots/screenshot-seven.png)
