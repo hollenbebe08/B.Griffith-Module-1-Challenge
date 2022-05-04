@@ -39,7 +39,7 @@
 </br>
 
 **Changes made to fulfill criteria: When I view the heading attributes - then they fall in sequential order** </br>
-
+* No changes made but did confirm that the headers were in sequential order.
 </br>
 </br>
 
@@ -51,14 +51,17 @@
 ## 🗒️CSS File Updates to ensure that the CSS code is cascading correctly and is free of repeating code:
 
 **Changes made to Header Section:**
+* Changed the divs to be nav to correspond with the HTML updates to the header section.
 
 **Changes made to Hero Section:**
 * Created its own section in the HTML file and made the hero class in the CSS file its own.
 
 **Changes made to SEO, Rep, Social Media section**
-* All of the styling for the search engine optimization, online reputation management, and social media marketing articles was moved up in the CSS file to be under its own section.
+* Moved the stylings for the SEO, Rep, and Social Media section to be above the stylings for the benefits section.
+* Combined the styling for the SEO, rep, and social media section articles into one class to use across all three articles. Also combined the classes for their h2 headers as well as their images.
 
 **Changes made to Benefits Section:**
+ Combined the styling for the benefit cost, lead, and brand section divs into one class to use across all three divs. Also combined the classes for their h3 headers as well as their images.
 
 **Changes made to the Footer Section:**
 * Moved the footers css styling to be under the header styling
